@@ -10,3 +10,4 @@ ex:https://pratilipiconnect4.herokuapp.com/0 ---> to insert in 0th column
    https://pratilipiconnect4.herokuapp.com/1 ---> to insert in 1st column
    https://pratilipiconnect4.herokuapp.com/3 ---> to insert in 3rd column etc
 
+Due to time constraints the matrix variable holding the game status is made as global. So at a time there can be only one game.
